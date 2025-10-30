@@ -10,7 +10,7 @@ body {
     background-color: #B1D471;
 }
 
-body::after {
+/* body::after {
     content: "";
     position: absolute;
     top: 0;
@@ -19,7 +19,7 @@ body::after {
     width: 1440px;
     height: 7037px;
     opacity: 0.2;
-}
+} */
 
 .section-1 .trenazher {
     position: absolute;
@@ -46,7 +46,7 @@ body::after {
 	font-style: normal;
     font-size: 200px;
     padding-left: 40px;
-    padding-top: 30px;
+    padding-top: 22px;
     color: #EEEEEE;
 }
 
@@ -70,7 +70,7 @@ padding-left: 974px;
      font-family: 'BebasNeueProExpandedExtraBold';
     font-weight: bold;
 	font-style: normal;
-    padding-left: 440px;
+    padding-left: 539px;
     padding-top: 109px;
     font-size: 100px;
     color: #EEEEEE;
@@ -93,11 +93,11 @@ padding-top: 1310px;
 .section-2 .shrift {
         position: absolute;
     top: 0;
-     font-family: 'Bebas Neue';
+     font-family: 'BebasNeueProSemiExpandedExtraBold';
     font-weight: bold;
 	font-style: normal;
     padding-left: 40px;
-    padding-top: 1210px;
+    padding-top: 1200px;
     font-size: 48px;
     color: #494949;
 }
@@ -105,13 +105,61 @@ padding-top: 1310px;
 .section-2 .diza {
      position: absolute;
     top: 0;
-     font-family: 'BebasNeueProSemiExpandedExtraBoldItalic';
+     font-family: 'BebasNeueProSemiExpandedExtraBold';
     font-weight: bold;
 	font-style: normal;
     padding-left: 272px;
-    padding-top: 1418px;
+    padding-top: 1412px;
     font-size: 32px;
     color: #494949;
+}
+
+.section-2 .reiti {
+     position: absolute;
+    top: 0;
+     font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 554.5px;
+    padding-top: 1444px;
+    font-size: 32px;
+    color: #D66A8A;
+}
+
+.section-2 .studio {
+     position: absolute;
+    top: 0;
+     font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 622px;
+    padding-top: 1476px;
+    font-size: 32px;
+    color: #D66A8A;
+}
+
+.section-2 .data {
+    position: absolute;
+    top: 0;
+     font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 573.3px;
+    padding-top: 1200px;
+    font-size: 48px;
+    color: #D66A8A;
+}
+
+.section-2 .grotesk {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 786.5px;
+    padding-top: 1248px;
+    font-size: 48px;
+    color: #D66A8A;
 }
 
 .section-2 .portret {
@@ -119,6 +167,30 @@ padding-top: 1310px;
     top: 0;
     padding-left: 1047px;
 padding-top: 1127px;
+}
+
+.section-3 .sozd {
+position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1135px;
+    padding-top: 1397px;
+    font-size: 32px;
+    color: #D66A8A;    
+}
+
+.section-3 .spec {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1090px;
+    padding-top: 1450px;
+    font-size: 20px;
+    color: #494949;  
 }
 
 .section-3 .pol333 {
@@ -148,23 +220,1020 @@ padding-top: 1774px;
 padding-top: 1690px;
 }
 
+.section-3 .podd {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 90px;
+    padding-top: 1910px;
+    font-size: 24px;
+    color: #EEEEEE; 
+}
+
+.section-3 .sto {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 96px;
+    padding-top: 1926px;
+    font-size: 96px;
+    color: #EEEEEE; 
+}
+
+.section-3 .yazikov {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 123px;
+    padding-top: 2008px;
+    font-size: 24px;
+    color: #EEEEEE; 
+}
+
+.section-3 .imeet {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 380px;
+    padding-top: 1944px;
+    font-size: 24px;
+    color: #EEEEEE; 
+}
+
+.section-3 .sorok {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:362px;
+    padding-top: 1953px;
+    font-size: 96px;
+    color: #EEEEEE; 
+}
+
+.section-3 .stilei {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 376px;
+    padding-top: 2034px;
+    font-size: 24px;
+    color: #EEEEEE; 
+}
+
+.section-3 .nacherti {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 869px;
+    padding-top: 1835px;
+    font-size: 40px;
+    color: #EEEEEE; 
+}
+
+.section-3 .pyat {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 942px;
+    padding-top: 1877px;
+    font-size: 64px;
+    color: #EEEEEE; 
+}
+
+.section-3 .glifov {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1060px;
+    padding-top: 2020px;
+    font-size: 40px;
+    color: #EEEEEE; 
+}
+
+.section-3 .chetri {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1072px;
+    padding-top: 1960px;
+    font-size: 64px;
+    color: #EEEEEE; 
+}
+
+.section-3 .shiri {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1231px;
+    padding-top: 1835px;
+    font-size: 40px;
+    color: #EEEEEE; 
+}
+
+.section-3 .tri {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1281px;
+    padding-top: 1877px;
+    font-size: 64px;
+    color: #EEEEEE; 
+}
+
+
 /* h1, h2 {
     font-family: ;
 } */
 
-.section-4 {
-    background-image: url(../images/fon4.svg);
-    width: 100%;
-    height: 820px;
-    background-repeat: no-repeat;
-    background-size: 100%;
+/* четвертая секция */
+
+.section-4 .fon4 {
     position: absolute;
-    margin-top: 2205px;
-}
- .kover1 {
-   position: absolute;
     top: 0px;
     padding-left: 0px;
-padding-top: 0px; 
-/* transform: rotate(20deg); */
+padding-top: 2205px;
+}
+
+.section-4 .cherf {
+    position: absolute;
+    top: 0px;
+    padding-left: 0px;
+padding-top: 2100px;
+}
+ 
+.section-4 .fog {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 2225px;
+    font-size: 70px;
+    color: #494949; 
+}
+
+.section-4 .ofic {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 2305px;
+    font-size: 32px;
+    color: #494949; 
+}
+
+.section-4 .kovone {
+    position: absolute;
+    top: 0px;
+    padding-left: 47px;
+    padding-top: 2506px;   
+}
+
+.section-4 .kovtwo {
+    position: absolute;
+    top: 0px;
+    padding-left: 416px;
+    padding-top: 2410px;   
+}
+
+.section-4 .kovthree {
+    position: absolute;
+    top: 0px;
+    padding-left: 671px;
+    padding-top: 2596px;   
+}
+
+.section-4 .kovchet {
+    position: absolute;
+    top: 0px;
+    padding-left: 110px;
+    padding-top: 2658px;   
+}
+
+.section-4 .kovfive {
+    position: absolute;
+    top: 0px;
+    padding-left: 660px;
+    padding-top: 2827px;  
+}
+
+.section-4 .bold {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 287px;
+    padding-top: 2516px;
+    font-size: 100px;
+    color: #EEEEEE;   
+}
+
+.section-4 .semi {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedRegular';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 964px;
+    padding-top: 2416px;
+    font-size: 100px;
+    color: #EEEEEE;   
+    transform: rotate(20deg);
+}
+
+.section-4 .regular {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 635px;
+    padding-top: 2700px;
+    font-size: 100px;
+    color: #94B754;   
+    transform: rotate(-8.72deg);
+}
+
+.section-4 .light {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProThin';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 582px;
+    padding-top: 2675px;
+    font-size: 120px;
+    color: #EEEEEE;   
+    transform: rotate(10.2deg);
+}
+
+.section-4 .thin {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProLight';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 933px;
+    padding-top: 2832px;
+    font-size: 130px;
+    color: #EEEEEE;   
+}
+
+/* пятая секция  */
+
+.section-5 .fonfiv {
+    position: absolute;
+    top: 0px;
+    padding-left: 0px;
+    padding-top: 3086px;  
+}
+
+.section-5 .ler {
+    position: absolute;
+    top: 0px;
+    padding-left:56px;
+    padding-top: 3253px;  
+}
+
+.section-5 .shkafi {
+    position: absolute;
+    top: 0px;
+    padding-left:394px;
+    padding-top: 3197px;  
+}
+
+.section-5 .cif {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 3123px;
+    font-size: 70px;
+    color: #494949;   
+}
+
+.section-5 .od {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:525px;
+    padding-top: 3221px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .tr {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:705px;
+    padding-top: 3221px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .py {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:887px;
+    padding-top: 3221px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .se {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:1071px;
+    padding-top: 3221px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .de {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:1253px;
+    padding-top: 3221px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .dv {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:525px;
+    padding-top: 3532px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .ch {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:705px;
+    padding-top: 3532px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .sh {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:887px;
+    padding-top: 3532px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .vo {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:1071px;
+    padding-top: 3532px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-5 .no {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:1253px;
+    padding-top: 3532px; 
+    font-size: 85px;
+    color: #94B754;   
+}
+
+.section-6 .shef {
+    position: absolute;
+    top: 0px;
+    padding-left:0px;
+    padding-top: 3622px;  
+}
+
+.section-6 .gliii {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 3925px;
+    font-size: 70px;
+    color: #494949;   
+}
+
+.section-6 .zaryad {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 3999px;
+    font-size: 32px;
+    color: #494949;   
+}
+
+.section-6 .svrz {
+    position: absolute;
+    top: 0px;
+    padding-left:221px;
+    padding-top: 4036px;  
+}
+
+.section-6 .svzl {
+    position: absolute;
+    top: 0px;
+    padding-left:23px;
+    padding-top: 4067px;   
+}
+
+.section-6 .tmrz {
+    position: absolute;
+    top: 0px;
+    padding-left:56px;
+    padding-top: 4076px;   
+}
+
+.section-6 .tmzl {
+    position: absolute;
+    top: 0px;
+    padding-left:420px;
+    padding-top: 3984px;   
+}
+
+.section-6 .simvol1s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:366px;
+    padding-top: 4247px;  
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(7.31deg);
+}
+
+.section-6 .simvol2s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:315px;
+    padding-top: 4195px;  
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(0.78deg);
+}
+
+.section-6 .simvol3s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:191px;
+    padding-top: 4275px;  
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-7.81deg);
+}
+
+.section-6 .simvol4s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:152px;
+    padding-top: 4229px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-13.71deg);
+}
+
+.section-6 .simvol5s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:596px;
+    padding-top: 4249px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-7.18deg);
+}
+
+.section-6 .simvol6s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:1299px;
+    padding-top: 4157px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(6.84deg);
+}
+
+.section-6 .simvol7s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:1639px;
+    padding-top: 4047px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(11.06deg);
+}
+
+.section-6 .simvol8s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left:90px;
+    padding-top: 4580px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-0.82deg);
+}
+
+.section-6 .simvol9s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 20px;
+    padding-top: 4545px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-8deg);
+}
+
+.section-6 .simvol10s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 865px;
+    padding-top: 4537px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(9.21deg);
+}
+
+.section-6 .simvol11s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 584px;
+    padding-top: 4488px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-2.36deg);
+}
+
+.section-6 .simvol12s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1097px;
+    padding-top: 4479px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(6.07deg);
+}
+
+.section-6 .simvol13s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1082px;
+    padding-top: 4560px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(0.29deg);
+}
+
+.section-6 .simvol14s {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 900px;
+    padding-top: 4605px; 
+    font-size: 70px;
+    color: #494949;   
+    transform: rotate(-9.71deg);
+}
+
+.section-7 .osobenn {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 4836px;
+    font-size: 70px;
+    color: #494949;   
+}
+
+.section-7 .poda {
+    position: absolute;
+    top: 0px;
+    padding-left:0px;
+    padding-top: 5243px;   
+}
+
+.section-7 .ysten {
+    position: absolute;
+    top: 0px;
+    padding-left:1137px;
+    padding-top: 5044px;   
+}
+
+.section-7 .syzh {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 85px;
+    padding-top: 4995px;
+    font-size: 22px;
+    color: #494949;   
+    text-align: center;
+}
+
+.section-7 .izgib {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 349px;
+    padding-top: 4995px;
+    font-size: 22px;
+    color: #494949;   
+    text-align: center;
+}
+
+.section-7 .assim {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 627px;
+    padding-top: 4995px;
+    font-size: 22px;
+    color: #494949;   
+    text-align: center;
+}
+
+.section-7 .syzhenie {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 911px;
+    padding-top: 4995px;
+    font-size: 22px;
+    color: #494949;   
+    text-align: center;
+}
+
+.section-7 .qu {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 130px;
+    padding-top: 5030px;
+    font-size: 143px;
+    color: #EEEEEE;   
+    text-align: center;
+}
+
+.section-7 .rj {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 368px;
+    padding-top: 5030px;
+    font-size: 143px;
+    color: #EEEEEE;   
+    text-align: center;
+}
+
+.section-7 .d {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 651px;
+    padding-top: 5030px;
+    font-size: 143px;
+    color: #EEEEEE;   
+    text-align: center;
+}
+
+.section-7 .chya {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProSemiExpandedMiddle';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 914px;
+    padding-top: 5030px;
+    font-size: 143px;
+    color: #EEEEEE;   
+    text-align: center;
+}
+
+.section-7 .cry {
+    position: absolute;
+    top: 0px;
+    padding-left: 153px;
+    padding-top: 5085px;  
+}
+
+.section-8 .hype {
+    position: absolute;
+    top: 0px;
+    padding-left: 0px;
+    padding-top: 5643px;  
+}
+
+.section-8 .posled {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 5684px;
+    font-size: 70px;
+    color: #494949;   
+}
+
+.section-8 .fyt {
+    position: absolute;
+    top: 0px;
+    padding-left: 31px;
+    padding-top: 5806px;  
+}
+
+.section-8 .blo {
+    position: absolute;
+    top: 0px;
+    padding-left: 1116px;
+    padding-top: 6370px;  
+}
+
+.section-8 .byti {
+    position: absolute;
+    top: 0px;
+    padding-left: 661px;
+    padding-top: 6083px;  
+}
+
+.section-8 .ko8r {
+    position: absolute;
+    top: 0px;
+    padding-left: 48px;
+    padding-top: 6490px;   
+}
+
+.section-8 .perch {
+    position: absolute;
+    top: 0px;
+    padding-left: 847px;
+    padding-top: 6346px;  
+}
+
+.section-8 .shop {
+    position: absolute;
+    top: 0px;
+    padding-left: 910px;
+    padding-top: 5670px;  
+}
+
+.section-8 .stak {
+    position: absolute;
+    top: 0px;
+    padding-left: 695px;
+    padding-top: 5800px;    
+}
+
+.section-8 .sdelay {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedRegular';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 183px;
+    padding-top: 5930px;
+    font-size: 75px;
+    color: #EEEEEE;   
+}
+
+.section-8 .pilat {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 220px;
+    padding-top: 6500px;
+    font-size: 90px;
+    color: #EEEEEE;   
+}
+
+.section-8 .byd {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1030px;
+    padding-top: 6070px;
+    font-size: 40px;
+    color: #EEEEEE;   
+}
+
+.section-8 .vita {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 740px;
+    padding-top: 5936px;
+    font-size: 20px;
+    color: #EEEEEE;
+    text-align: center;   
+}
+
+.section-8 .bcab {
+    position: absolute;
+    top: 0px;
+    padding-left: 705px;
+    padding-top: 6291px;    
+}
+
+.section-8 .al {
+    position: absolute;
+    top: 0px;
+    padding-left: 912px;
+    padding-top: 6473px;      
+}
+
+.section-8 .toda {
+    position: absolute;
+    top: 0px;
+    padding-left: 1222px;
+    padding-top: 6436px;       
+}
+
+.section-9 .devyaf {
+    position: absolute;
+    top: 0px;
+    padding-left: 0px;
+    padding-top: 6650px;        
+}
+
+.section-9 .kovedev {
+    position: absolute;
+    top: 0px;
+    padding-left: 37px;
+    padding-top: 6808px;        
+}
+
+.section-9 .final {
+    position: absolute;
+    top: 0px;
+    padding-left: 600px;
+    padding-top: 6808px;        
+}
+
+.section-9 .last {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 40px;
+    padding-top: 6672px;
+    font-size: 40px;
+    color: #EEEEEE;
+    text-align: center;   
+}
+
+.section-9 .group {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 650px;
+    padding-top: 6672px;
+    font-size: 40px;
+    color: #EEEEEE;
+    text-align: center;   
+}
+
+.section-9 .god {
+    position: absolute;
+    top: 0;
+    font-family: 'BebasNeueProExpandedExtraBold';
+    font-weight: bold;
+	font-style: normal;
+    padding-left: 1320px;
+    padding-top: 6672px;
+    font-size: 40px;
+    color: #EEEEEE;
+    text-align: center;   
 }

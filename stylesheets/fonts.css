@@ -11,3 +11,38 @@
    font-weight: 900;
     font-style: bold italic; 
 }
+
+@font-face {
+    font-family: "BebasNeueProSemiExpandedExtraBold";
+    src: url('../fonts/BebasNeueProSemiExpandedExtraBold.ttf') format(truetype);
+   font-weight: 900;
+    font-style: bold; 
+}
+
+@font-face {
+    font-family: "BebasNeueProExpandedRegular";
+    src: url('../fonts/BebasNeueProExpandedRegular.ttf') format(truetype);
+   font-weight: 800;
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "BebasNeueProSemiExpandedMiddle";
+    src: url('../fonts/BebasNeueProSemiExpandedMiddle.ttf') format(truetype);
+   font-weight: 800;
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "BebasNeueProLight";
+    src: url('../fonts/BebasNeueProLight.ttf') format(truetype);
+   font-weight: 800;
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: "BebasNeueProThin";
+    src: url('../fonts/BebasNeueProThin.ttf') format(truetype);
+   font-weight: 100;
+    font-style: normal; 
+}
