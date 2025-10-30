@@ -22,21 +22,21 @@
 @font-face {
     font-family: "BebasNeueProExpandedRegular";
     src: url('../fonts/BebasNeueProExpandedRegular.ttf') format(truetype);
-   font-weight: 800;
+   font-weight: 400;
     font-style: normal; 
 }
 
 @font-face {
     font-family: "BebasNeueProSemiExpandedMiddle";
     src: url('../fonts/BebasNeueProSemiExpandedMiddle.ttf') format(truetype);
-   font-weight: 800;
+   font-weight: 600;
     font-style: normal; 
 }
 
 @font-face {
     font-family: "BebasNeueProLight";
     src: url('../fonts/BebasNeueProLight.ttf') format(truetype);
-   font-weight: 800;
+   font-weight: 200;
     font-style: normal; 
 }
 
