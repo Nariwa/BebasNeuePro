@@ -11,16 +11,6 @@ body {
     background-color: #B1D471;
 }
 
-/* body::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: url('../images/maket.svg');
-    width: 1440px;
-    height: 7037px;
-    opacity: 0.2;
-} */
 
 .section-1 .trenazher {
     position: absolute;
